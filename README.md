@@ -70,7 +70,10 @@ Archiving all my Apple II floppy disks that have been patiently waiting for some
 - [A] HIDE - _Absolutely on idea what this is doing - need to disassemble it to have a clue_
 
 ## [XMAS](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/working%20disks/XMAS.dsk)
-- [A] HELLO - _Runs my Christmas Card program (entry in a Windfall magazine competition)_
+- [A] HELLO - _Runs my Christmas Card program (entry in a Windfall p- Dec '82 - magazine competition)_
+&nbsp;
+
+![Windfall - December '82](https://www.rokcoder.com/stardot-images/bitstik.PNG)
 - [A] CHRISTMAS CARD 1 - _My animated snow scene that I wrote for the competition_
 - [A] CHRISTMAS CARD 2 - _I think my dad wrote this part as an extra for the competition entry_
 - [A] STAR GUARD (N.Forsyth) - _Fun little game_
@@ -81,7 +84,7 @@ Archiving all my Apple II floppy disks that have been patiently waiting for some
 ## [XMAS2](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/working%20disks/XMAS2.dsk)
 Direct copy of XMAS
 
-## Apparently faulty disks - need to check this with a disk editor at some point
+# Apparently faulty disks - need to check this with a disk editor at some point
 - CLIFFB
 - [DISK1](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/probably%20faulty%20disks/DISK1.dsk)
 - DOSUTIL
