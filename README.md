@@ -62,4 +62,32 @@ Faulty disk by the look of it :(
 - [B] AUTO NUMBER (Wayne Throop) - _Auto line numbering utility_
 - [A] LINE NUMBER - _Instructions for AUTO NUMBER_
 
+## DOSUTIL
+Faulty disk by the look of it :(
+
+## DOSUTILB
+Faulty disk by the look of it :(
+
+## GENERAL
+Faulty disk by the look of it :(
+
+## GENERALB
+Faulty disk by the look of it :(
+
+## PCLTD
+Faulty disk by the look of it :(
+
+## VERTBATIM
+- [A] HELLO - BRUNS the next file
+- [B] FIRSTFILE "Swashbuckler" - _Oh, I played this game a __lot__ as a kid_
+
+## VERBATIMB
+- [A] HELLO - _I think this is trying to load Integer if it isn't present (but fails because file's not on disk)_
+- [A] EDASM "Editor Assembler" (Apple Computer INC)
+- [B] EDASM.OBJ - _The guts of EDASM_
+- [B] ASMIDSTAMP - _Used by EDASM_
+- [B] ASSM - _Presumably something to do with EDASM_
+- [B] EDITOR - _Presumably something to do with EDASM_
+- [A] HIDE - _Absolutely on idea what this is doing - need to disassemble it to have a clue_
+
 
