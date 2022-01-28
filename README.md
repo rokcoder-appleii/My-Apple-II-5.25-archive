@@ -1,10 +1,10 @@
 # My-Apple-II-5.25-archive
 Archiving all my Apple II floppy disks that have been patiently waiting for some love and attention
 
-## AWIII
+## [AWIII](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/working%20disks/AWIII.dsk)
 - HELLO - _Disk belongs to..._
 
-## AWIIIB
+## [AWIIIB](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/working%20disks/AWIIIB.dsk)
 - [A] HELLO - _Disk belongs to..._
 - [I] RABI "Hammurabi" (Apple Computer Inc)
 - [I] SPACE WAR (Apple Computer Inc)
@@ -18,7 +18,7 @@ Archiving all my Apple II floppy disks that have been patiently waiting for some
 - [B] BACH 2 - _Plays a different piece of music by Bach_
 - [B] FID "Wayne ][ File Developer" (Wayne Coomputer Inc)
 
-## CLIFF
+## [CLIFF](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/working%20disks/CLIFF.dsk)
 - [A] HELLO - _Disk belongs to..._
 - [A] CLIFFY - _I think I was making a "shoot the enemy" game but hadn't grasped how to monitor the keyboard without using INPUT_
 - [A] NUTTY - _Shows a magnificent picture of the chosen weather (but only if you select sunny)_
@@ -34,26 +34,20 @@ Archiving all my Apple II floppy disks that have been patiently waiting for some
 - [A] SKER (?) - _Looks like fun but... paddles needed_
 - [B] SOUND - _Seems to make a long beep - awesome stuff!_
 
-## CLIFFB
-Faulty disk by the look of it :(
-
-## CLIFFORD
+## [CLIFFORD](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/working%20disks/CLIFFORD.dsk)
 - [A] HELLO - _Somewhat improved "Disk belongs to..." - tihngs are getting better!_
 - [B] MINI-ASSEMBLER - _Presumably a mini-assembler_
 - [B] ZENITH (Nasir) - _3D game_
 - [B] FALCONS (?) - _Fun arcade game_
 - [B] AUTOBAHN (Sirius Software) - _Great arcade game - I guess I'd discovered disk editors at this point as Flobberdob (my "hacking" name) appears in here_
 
-## CLIFFORDB
+## [CLIFFORDB](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/working%20disks/CLIFFORDB.dsk)
 - [A] HELLO - _Looks like I'd discovered I could do control commands with CHR$($4)_
 - [A] BANDITS (Sirius Software)
 - [B] BANDITS.OBJ - _Part of the above_
 - [T] B= - _Presumably also related to Bandits_
 
-## DISK1
-Faulty disk by the look of it :(
-
-## DISK1B
+## [DISK1B](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/working%20disks/DISK1B.dsk)
 - [A] HELLO - _Empty file_
 - [A] SATURN 1 - _Draws Saturn using ellipse algorithms_
 - [A] SUPER PLOTTER - _Graphical patterns based on sines and cosines
@@ -62,26 +56,11 @@ Faulty disk by the look of it :(
 - [B] AUTO NUMBER (Wayne Throop) - _Auto line numbering utility_
 - [A] LINE NUMBER - _Instructions for AUTO NUMBER_
 
-## DOSUTIL
-Faulty disk by the look of it :(
-
-## DOSUTILB
-Faulty disk by the look of it :(
-
-## GENERAL
-Faulty disk by the look of it :(
-
-## GENERALB
-Faulty disk by the look of it :(
-
-## PCLTD
-Faulty disk by the look of it :(
-
-## VERTBATIM
+## [VERTBATIM](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/working%20disks/VERBATIM.dsk)
 - [A] HELLO - BRUNS the next file
 - [B] FIRSTFILE "Swashbuckler" - _Oh, I played this game a __lot__ as a kid_
 
-## VERBATIMB
+## [VERBATIMB](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/working%20disks/VERBATIMB.dsk)
 - [A] HELLO - _I think this is trying to load Integer if it isn't present (but fails because file's not on disk)_
 - [A] EDASM "Editor Assembler" (Apple Computer INC)
 - [B] EDASM.OBJ - _The guts of EDASM_
@@ -90,13 +69,7 @@ Faulty disk by the look of it :(
 - [B] EDITOR - _Presumably something to do with EDASM_
 - [A] HIDE - _Absolutely on idea what this is doing - need to disassemble it to have a clue_
 
-## WP1B
-Faulty disk by the look of it :(
-
-## WP2
-Faulty disk by the look of it :(
-
-## XMAS
+## [XMAS](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/working%20disks/XMAS.dsk)
 - [A] HELLO - _Runs my Christmas Card program (entry in a Windfall magazine competition)_
 - [A] CHRISTMAS CARD 1 - _My animated snow scene that I wrote for the competition_
 - [A] CHRISTMAS CARD 2 - _I think my dad wrote this part as an extra for the competition entry_
@@ -105,10 +78,16 @@ Faulty disk by the look of it :(
 - [A] ICE CREAM VENDOR (G.W.Gallagher)
 - [A] LIST EDASM - _Not really sure what this is_
 
-## XMAS2
+## [XMAS2](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/working%20disks/XMAS2.dsk)
 Direct copy of XMAS
 
-
-
-
-
+## Apparently faulty disks - need to check this with a disk editor at some point
+- CLIFFB
+- [DISK1](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/probably%20faulty%20disks/DISK1.dsk)
+- DOSUTIL
+- DOSUTILB
+- GENERAL
+- GENERALB
+- PCLTD
+- [WP1B](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/probably%20faulty%20disks/WP1B.dsk)
+- [WP2](https://github.com/rokcoder-appleii/My-Apple-II-5.25-archive/raw/main/probably%20faulty%20disks/WP2.dsk)
