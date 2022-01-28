@@ -38,7 +38,7 @@ Archiving all my Apple II floppy disks that have been patiently waiting for some
 Faulty disk by the look of it :(
 
 ## CLIFFORD
-- [A] HELLO - _Somewhat improved "Disk belongs to..." - tihngs are getting better!_
+- [A] HELLO - _Somewhat improved "Disk belongs to..." - things are getting better!_
 - [B] MINI-ASSEMBLER - _Presumably a mini-assembler_
 - [B] ZENITH (Nasir) - _3D game_
 - [B] FALCONS (?) - _Fun arcade game_
