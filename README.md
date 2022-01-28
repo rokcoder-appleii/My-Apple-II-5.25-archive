@@ -50,4 +50,16 @@ Faulty disk by the look of it :(
 - [B] BANDITS.OBJ - _Part of the above_
 - [T] B= - _Presumably also related to Bandits_
 
+## DISK1
+Faulty disk by the look of it :(
+
+## DISK1B
+- [A] HELLO - _Empty file_
+- [A] SATURN 1 - _Draws Saturn using ellipse algorithms_
+- [A] SUPER PLOTTER - _Graphical patterns based on sines and cosines
+- [A] RENUMBER (Applesoft) - _Renumbers a program's lines_
+- [A] TALKER - _A little pokery to trick the user into thinking the program isn't running_
+- [B] AUTO NUMBER (Wayne Throop) - _Auto line numbering utility_
+- [A] LINE NUMBER - _Instructions for AUTO NUMBER_
+
 
