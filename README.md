@@ -90,4 +90,25 @@ Faulty disk by the look of it :(
 - [B] EDITOR - _Presumably something to do with EDASM_
 - [A] HIDE - _Absolutely on idea what this is doing - need to disassemble it to have a clue_
 
+## WP1B
+Faulty disk by the look of it :(
+
+## WP2
+Faulty disk by the look of it :(
+
+## XMAS
+- [A] HELLO - _Runs my Christmas Card program (entry in a Windfall magazine competition)_
+- [A] CHRISTMAS CARD 1 - _My animated snow scene that I wrote for the competition_
+- [A] CHRISTMAS CARD 2 - _I think my dad wrote this part as an extra for the competition entry_
+- [A] STAR GUARD (N.Forsyth) - _Fun little game_
+- {A] IMHOTEP "Imhotep Pyramid Builder" (M.P.Antonovich) 
+- [A] ICE CREAM VENDOR (G.W.Gallagher)
+- [A] LIST EDASM - _Not really sure what this is_
+
+## XMAS2
+Direct copy of XMAS
+
+
+
+
 
